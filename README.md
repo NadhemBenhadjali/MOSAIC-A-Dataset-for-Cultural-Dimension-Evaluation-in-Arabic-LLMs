@@ -15,10 +15,6 @@ The dataset contains Arabic scenarios framed as two-choice dilemmas. Each
 choice reflects one side of a cultural dimension, allowing models to be compared
 through their option preferences rather than free-form explanations.
 
-<p align="center">
-  <img src="assets/mosaic_repository_overview.png" alt="MOSAIC repository overview" width="95%">
-</p>
-
 ## Overview
 
 This repository contains the cleaned code and data release for:
