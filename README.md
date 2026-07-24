@@ -2,7 +2,7 @@
 
 **A Dataset for Cultural Dimension Evaluation in Arabic LLMs**
 
-## Nadhem Benhadjali, Seifeddine Hamdi, Istabrak Abbes, Safa Messaoud, Ines Arous
+#### Nadhem Benhadjali, Seifeddine Hamdi, Istabrak Abbes, Safa Messaoud, Ines Arous
 
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue)](#installation)
 [![Dataset](https://img.shields.io/badge/dataset-1%2C483%20Arabic%20scenarios-green)](#dataset)
