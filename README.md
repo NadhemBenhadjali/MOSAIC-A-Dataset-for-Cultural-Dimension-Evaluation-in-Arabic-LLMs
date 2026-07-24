@@ -1,6 +1,4 @@
-# MOSAIC
-
-**A Dataset for Cultural Dimension Evaluation in Arabic LLMs**
+# MOSAIC : A Dataset for Cultural Dimension Evaluation in Arabic LLMs
 
 #### Nadhem Benhadjali, Seifeddine Hamdi, Istabrak Abbes, Safa Messaoud, Ines Arous
 
