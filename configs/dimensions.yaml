@@ -1,0 +1,26 @@
+dimensions:
+  idv:
+    name: Individualism vs. Collectivism
+    file: individualistic_vs_collectivist_prompts.csv
+    option_1: individualism
+    option_2: collectivism
+  lto:
+    name: Long-Term vs. Short-Term Orientation
+    file: long_term_vs_short_term_orientation_prompts.csv
+    option_1: long_term_orientation
+    option_2: short_term_orientation
+  mas:
+    name: Masculinity vs. Femininity
+    file: mas_prompts.csv
+    option_1: masculinity
+    option_2: femininity
+  pdi:
+    name: Power Distance Index
+    file: power_distance_index_prompts.csv
+    option_1: high_power_distance
+    option_2: low_power_distance
+  uai:
+    name: Uncertainty Avoidance Index
+    file: uncertainty_avoidance_prompts.csv
+    option_1: high_uncertainty_avoidance
+    option_2: low_uncertainty_avoidance

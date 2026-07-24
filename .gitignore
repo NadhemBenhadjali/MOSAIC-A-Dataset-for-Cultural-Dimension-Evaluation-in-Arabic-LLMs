@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Secrets
+.env
+*.key
+*.token
+
+# Large generated outputs
+results/raw/**/*.csv
+results/prompts/**/*.csv
+results/processed/**/*.csv
+
+# Local model/cache folders
+.cache/
+models/
+
+# System files
+.DS_Store
+Thumbs.db

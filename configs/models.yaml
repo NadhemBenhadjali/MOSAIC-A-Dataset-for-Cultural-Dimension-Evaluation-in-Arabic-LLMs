@@ -1,0 +1,11 @@
+models:
+  AceGPT: FreedomIntelligence/AceGPT-v1.5-7B-Chat
+  Allam: ALLaM-AI/ALLaM-7B-Instruct-preview
+  Aya: CohereLabs/aya-expanse-8b
+  command-r7b: CohereLabs/c4ai-command-r7b-arabic-02-2025
+  Falcon: tiiuae/Falcon3-7B-Instruct
+  Fanar: QCRI/Fanar-1-9B-Instruct
+  llama: meta-llama/Llama-3.1-8B-Instruct
+  Qwen: Qwen/Qwen2.5-7B-Instruct
+
+seeds: [42, 22, 36, 94, 10]
