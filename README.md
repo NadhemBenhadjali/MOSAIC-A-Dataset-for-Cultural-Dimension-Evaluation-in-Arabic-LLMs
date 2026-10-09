@@ -308,15 +308,15 @@ should be.
 Please cite the paper if you use this dataset or code.
 
 ```bibtex
-@inproceedings{benhadjali2025mosaic,
-  title     = {MOSAIC: A Dataset for Cultural Dimension Evaluation in Arabic LLMs},
-  author    = {Benhadjali, Nadhem and Hamdi, Seifeddine and Abbes, Istabrak
-               and Messaoud, Safa and Arous, Ines},
-  booktitle = {NeurIPS 2025 Workshop: Muslims in ML},
-  year      = {2025}
+@inproceedings{
+benhadjali2025mosaic,
+title={{MOSAIC}: A Dataset for Cultural Dimension Evaluation in Arabic {LLM}s},
+author={Nadhem Benhadjali and Seifeddine Hamdi and Istabrak Abbes and Safa Messaoud and Ines Arous},
+booktitle={5th Muslims in ML Workshop co-located with NeurIPS 2025},
+year={2025},
+url={https://openreview.net/forum?id=3Cs8Yqwj2g}
 }
 ```
-
 ## Contact
 
 For questions about the dataset or evaluation pipeline, please open an issue or
